@@ -1,5 +1,7 @@
 from distutils.core import setup
 
+files = ["*"]
+
 setup(
     name='Minidetector',
     version='0.1',
