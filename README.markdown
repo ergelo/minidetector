@@ -15,3 +15,5 @@ This is a fork of http://code.google.com/p/minidetector/
 
 The original project hasn't had an update since 2008, and is poorly
 packaged.
+
+This fork packaged the module and uploaded it to pypi.
