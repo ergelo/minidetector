@@ -1,2 +1,1 @@
 include minidetector/search_strings.txt
-recursive-include minidetector/tests/*.txt
